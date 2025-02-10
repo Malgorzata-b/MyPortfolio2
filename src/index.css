@@ -46,15 +46,6 @@ body {
   background-attachment: fixed;
 }
 
-/* // display: grid;
-display: flex;
-// grid-template-columns: repeat(2, 1fr);
-gap: 2rem;
-// padding: 4vh 3vw;
-border-radius: 20px;
-backdrop-filter: blur(5px);
-border: 2px solid red; */
-
 .Ønskelister {
   padding: 3vh 0;
   padding-left: 3vw;

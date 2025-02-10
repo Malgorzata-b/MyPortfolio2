@@ -223,10 +223,10 @@ export default function About2() {
       </ImagesContainer>
       <AboutMeContainer id="AboutMe">
         <Description id="Description">
-          Hi!
+          Cześć!
           <br />
-          Nazywam się Małgorzata i z wielkim entuzjazmem rozpoczynam swoją drogę
-          jako frontend developer. Z pozytywnym nastawieniem i chęcią do nauki
+          Nazywam się Gosia i z wielkim entuzjazmem rozpoczynam swoją drogę jako
+          frontend developer. Z pozytywnym nastawieniem i chęcią do nauki
           podejmuję się nowych wyzwań, zawsze dążąc do znalezienia analitycznych
           rozwiązań problemów. Przez ostatnie sześć miesięcy kształciłam się w
           zakresie frontend developmentu na kursie IT-Utvikler AMO/Kodehode,
@@ -235,10 +235,10 @@ export default function About2() {
           <br />
           <br /> Aktualnie aktywnie poszukuję stażu, w którym mogłabym
           wykorzystać swoje umiejętności w środowisku pracy. Obecnie pracuję
-          jako asystent nauczyciela w Johannes Learning Center, gdzie wspieram
-          lekcje z języka norweskiego, angielskiego, programowania, matematyki
+          jako asystent nauczyciela w Johannes Learning Center, gdzie wspieram w
+          lekcjach z języka norweskiego, angielskiego, programowania, matematyki
           oraz muzyki. Ta rola pozwoliła mi rozwinąć zdolność współpracy i
-          adaptacji do różnych środowisk edukacyjnych.
+          adaptacji do różnych środowisk edukacyjnych i społecznych.
           <br />
           <br /> W wolnym czasie lubię grać w szachy, spędzać czas z rodziną i
           przyjaciółmi oraz realizować swoją pasję do muzyki i podróży. Jestem

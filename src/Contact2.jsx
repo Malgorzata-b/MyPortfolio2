@@ -103,7 +103,7 @@ export default function Contact2() {
           e - mail: <strong>bugajska.malgorzat5@gmail.com</strong>
         </ParagraphContact>
         <ParagraphContact id="TitleContact">
-          numer telefonu: <strong>(+47) 486 53 587</strong>
+          numer telefonu: <strong>(+48) 505 454 271</strong>
         </ParagraphContact>
       </InfocontactContainer>
 

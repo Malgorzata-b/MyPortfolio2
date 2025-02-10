@@ -51,7 +51,7 @@ const WelcomeContainer = styled.div`
   align-items: center;
   width: 25rem;
   gap: 2rem;
-  margin: 0 14.8vw;
+  margin: 0 14vw;
   backdrop-filter: blur(2px);
   position: relative;
   top: -20%;

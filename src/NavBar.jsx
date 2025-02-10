@@ -39,7 +39,7 @@ const NavBarButton = styled.button`
   color: var(--white);
   background-color: var(--NavBarButtonBackgroundColor);
   font-size: 1.5rem;
-  width: 8rem;
+  width: 9rem;
   height: 3rem;
   border-radius: 5rem;
   border: 4px solid var(--NavBarButtonBorderColor);

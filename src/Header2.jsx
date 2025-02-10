@@ -1,4 +1,4 @@
-import CV from "/CV-M.Bugajska1.pdf";
+import CV from "/CV-M.Bugajska2.pdf";
 import Dots from "/dots.png";
 
 import styled from "styled-components";
@@ -51,10 +51,10 @@ const WelcomeContainer = styled.div`
   align-items: center;
   width: 25rem;
   gap: 2rem;
-  margin: 0 14.8vw;
+  margin: 0 14vw;
   backdrop-filter: blur(2px);
   position: relative;
-  top: -20%;
+  top: -25%;
 `;
 
 const NameContainer = styled.div`

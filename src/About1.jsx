@@ -103,6 +103,7 @@ const CompetencesContainer = styled.div`
 const Paragraph = styled.p`
   font-weight: 700;
   font-size: 2.5rem;
+  text-align: center;
 `;
 
 const IconContainer = styled.div`
@@ -190,7 +191,7 @@ export default function About1() {
           </ButtonContainer>
         </CaruselContainer>
         <CompetencesContainer id="Competences">
-          <Paragraph id="CompetancesTitle">I can:</Paragraph>
+          <Paragraph id="CompetancesTitle">I know:</Paragraph>
           <IconContainer id="CompetencesIconContainer" className="HTML">
             <IconImage id="Icon" src={IconHTML} alt="HTML" />
             <IconTitle id="Title-competences">HTML</IconTitle>

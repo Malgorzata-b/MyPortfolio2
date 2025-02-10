@@ -129,7 +129,7 @@ const ParagraphIconsLinks = styled.p`
   text-decoration: underline;
   font-family: "Playfair Display", serif;
   text-shadow: 0px 3px 3px var(--ShadowButton);
-  width: 9.06rem;
+  width: 9.9rem;
 `;
 
 const ContainerIconsLinks = styled.div`
@@ -203,7 +203,7 @@ export default function Projects1() {
             <ParagraphProject id="paragraph-project">
               The project is an online concept store designed in Figma. The
               website is created for selling lavender products. The design
-              features harmonious colors, user-friendly navigation, and a modern
+              features harmonious colors, intuitive navigation, and a modern
               structure that highlights the natural character of the products.
             </ParagraphProject>
             <IconsContainerProject id="Icons-container">
@@ -338,9 +338,9 @@ export default function Projects1() {
               Project 3 <br /> Ønskelister
             </TitleProject>
             <ParagraphProject id="paragraph-project">
-              This project is an app built with React. It allows users to create
-              and organize wish lists. HTML and CSS are used to create a
-              responsive design.
+              This project is an app built with React. Users can see a list of
+              children along with their wishes. HTML and CSS are used to create
+              a responsive design.
             </ParagraphProject>
             <IconsContainerProject id="Icons-container">
               <IconsContainerTools id="Icons-container-tools">

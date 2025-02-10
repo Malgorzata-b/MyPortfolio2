@@ -129,7 +129,7 @@ const ParagraphIconsLinks = styled.p`
   text-decoration: underline;
   font-family: "Playfair Display", serif;
   text-shadow: 0px 3px 3px var(--ShadowButton);
-  width: 9.06rem;
+  width: 9.9rem;
 `;
 
 const ContainerIconsLinks = styled.div`
@@ -201,7 +201,7 @@ export default function Projects2() {
               Lavenda-Art
             </TitleProject>
             <ParagraphProject id="paragraph-project">
-              Projekt to internetowy sklep koncepcyjny zaprojektowany w Figma.
+              Internetowy sklep koncepcyjny zaprojektowany w programie Figma.
               Strona została stworzona z myślą o sprzedaży produktów
               lawendowych. W projekcie zastosowano harmonijne kolory, intuicyjną
               nawigację oraz nowoczesną strukturę, która podkreśla naturalny
@@ -210,7 +210,7 @@ export default function Projects2() {
             <IconsContainerProject id="Icons-container">
               <LinksContainerIcons id="Links-containerIcons">
                 <ParagraphIconsLinks id="LagetMeds">
-                  Zrobione:
+                  Zrobione w:
                 </ParagraphIconsLinks>
                 <ContainerIconsLinks>
                   <IconImageProject id="Icons" src={IconFigma} alt="Figma" />
@@ -269,14 +269,14 @@ export default function Projects2() {
               Countries - API
             </TitleProject>
             <ParagraphProject id="paragraph-project">
-              Projekt to aplikacja stworzona w JavaScript, która wykorzystuje
-              dane z API. Umożliwia użytkownikom przeglądanie informacji o
-              krajach z responsywnym designem w HTML i CSS.
+              Aplikacja stworzona w JavaScript, która wykorzystuje dane z API.
+              Umożliwia użytkownikom przeglądanie informacji o krajach z
+              responsywnym designem w HTML i CSS.
             </ParagraphProject>
             <IconsContainerProject id="Icons-container">
               <IconsContainerTools id="Icons-container-tools">
                 <ParagraphIconsLinks id="LagetMed">
-                  Zrobione:
+                  Zrobione w:
                 </ParagraphIconsLinks>
                 <ContainerIconsLinks id="containerIconsTools">
                   <IconImageProject id="Icons" src={IconJS} alt="JS" />
@@ -338,14 +338,14 @@ export default function Projects2() {
               Projekt 3 <br /> Ønskelister
             </TitleProject>
             <ParagraphProject id="paragraph-project">
-              Ten projekt to aplikacja stworzona w React. Umożliwia użytkownikom
-              przeglądanie listy życzeń. HTML i CSS zostały użyte do stworzenia
-              responsywnego designu.
+              Aplikacja stworzona w programie React. Umożliwia użytkownikom
+              przeglądanie listy życzeń napisanych przez dzieci do św. Mikołaja.
+              HTML i CSS zostały użyte do stworzenia responsywnego designu.
             </ParagraphProject>
             <IconsContainerProject id="Icons-container">
               <IconsContainerTools id="Icons-container-tools">
                 <ParagraphIconsLinks id="LagetMed">
-                  Zrobione:
+                  Zrobione w:
                 </ParagraphIconsLinks>
                 <ContainerIconsLinks id="containerIconsTools">
                   <IconImageProject id="Icons" src={IconReact} alt="React" />
@@ -414,7 +414,7 @@ export default function Projects2() {
             >
               <LinksContainerIcons id="Links-containerIcons">
                 <ParagraphIconsLinks id="LagetMed">
-                  Zrobione:
+                  Zrobione w:
                 </ParagraphIconsLinks>
                 <ContainerIconsLinks>
                   <GitHubMySQLIcons
@@ -459,13 +459,14 @@ export default function Projects2() {
             </TitleProject>
             <ParagraphProject id="paragraph-project">
               Projekt polega na stworzeniu szachownicy za pomocą JavaScript,
-              HTML i CSS. Zastosowano manipulację DOM, a celem było
-              przedstawienie podstawowych zasad gry w szachy.
+              HTML i CSS. <br />
+              Zastosowano manipulację DOM, a celem aplikacji jest przekazanie
+              podstawowych informacji o szachach.
             </ParagraphProject>
             <IconsContainerProject id="Icons-container">
               <IconsContainerTools id="Icons-container-tools">
                 <ParagraphIconsLinks id="LagetMed">
-                  Zrobione:
+                  Zrobione w:
                 </ParagraphIconsLinks>
                 <ContainerIconsLinks id="containerIconsTools">
                   <IconImageProject id="Icons" src={IconJS} alt="JS" />

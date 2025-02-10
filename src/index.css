@@ -110,7 +110,7 @@ border: 2px solid red; */
   #Welcome-container {
     width: 25rem;
     left: 8%;
-    top: -26%;
+    top: -25%;
   }
 
   #Title {
@@ -238,11 +238,12 @@ border: 2px solid red; */
 
   #LagetMed {
     font-size: 0.8rem;
-    width: 3.7rem;
+    width: 4rem;
   }
 
   #LagetMeds {
     font-size: 0.8rem;
+    width: 4rem;
   }
 
   #TitleButtonLinks {
@@ -357,8 +358,8 @@ border: 2px solid red; */
 @media only screen and (max-width: 1550px) {
   #Welcome-container {
     width: 17rem;
-    left: 3%;
-    top: -24%;
+    left: 2.8%;
+    top: -31%;
     gap: 1rem;
   }
 
@@ -685,6 +686,10 @@ border: 2px solid red; */
   #Welcome-container {
     margin: 0 7vw;
     left: -2%;
+  }
+
+  #Title {
+    font-size: 1.5rem;
   }
 
   #Project-con {

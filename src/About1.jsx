@@ -237,7 +237,7 @@ export default function About1() {
           <br /> I am now actively looking for an internship where I can apply
           these skills in a real work environment. Currently, I work as an
           assistant teacher at Johannes Learning Center, where I support lessons
-          in Norwegian, English, programming,mathematics and music. This role
+          in Norwegian, English, programming, mathematics and music. This role
           has strengthened my ability to collaborate and adapt to different
           learning environments.
           <br />

@@ -8,15 +8,6 @@ import pol from "/pl.png";
 
 import styled from "styled-components";
 
-const LanguageSection = styled.section`
-  //   border: 2px solid red;
-  background: linear-gradient(
-    to right top,
-    var(--dark),
-    var(--NavBarButtonBackgroundColor)
-  );
-`;
-
 const LanguageNav = styled.div`
   //   border: 9px solid yellow;
   max-width: 18vw;
@@ -64,7 +55,7 @@ export default function App() {
   }
 
   return (
-    <LanguageSection id="LanguageSection">
+    <>
       <LanguageNav id="LanguageNav">
         <LanguageButton id="LanguageButton" onClick={() => setLanguage("no")}>
           {" "}
@@ -80,6 +71,6 @@ export default function App() {
         </LanguageButton>
       </LanguageNav>
       {RenderNavBar()}
-    </LanguageSection>
+    </>
   );
 }

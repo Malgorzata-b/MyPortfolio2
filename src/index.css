@@ -61,6 +61,14 @@ body {
   padding-left: 3vw;
 }
 
+#MyPortfolio {
+  background: linear-gradient(
+    to right top,
+    var(--dark),
+    var(--NavBarButtonBackgroundColor)
+  );
+}
+
 @keyframes rotate {
   from {
     transform: rotate(0deg);
@@ -368,12 +376,6 @@ body {
   }
 }
 
-@media only screen and (max-width: 1350px) {
-  /* #img-dots {
-    height: 18rem;
-  } */
-}
-
 @media only screen and (max-width: 1275px) {
   #Button-header {
     width: 4rem;
@@ -383,12 +385,6 @@ body {
   #Links-header {
     font-size: 0.8rem;
   }
-
-  /* #img-dots {
-    height: 18rem;
-    top: 18%;
-    left: -12%;
-  } */
 
   #Container-Projects {
     flex-direction: column;
@@ -409,10 +405,6 @@ body {
   #Name {
     font-size: 1.2rem;
   }
-
-  /* #img-dots {
-    height: 22rem;
-  } */
 }
 
 @media only screen and (max-width: 900px) {
@@ -585,7 +577,6 @@ body {
   }
   #LanguageNav {
     gap: 0.6rem;
-    /* padding: 1.5vh 1.5rem; */
     padding-left: 2rem;
     padding-top: 0.8rem;
   }
